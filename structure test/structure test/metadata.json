@@ -1,0 +1,6 @@
+{
+  "name": "Satellite Broadband",
+  "description": "Manage WiFi users, subscriptions, billing, device details, and send payment reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
