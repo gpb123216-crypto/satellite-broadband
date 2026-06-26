@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223389893464",
+    "project_id": "satellite-broadband-70b56",
+    "storage_bucket": "satellite-broadband-70b56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223389893464:android:3b2e30b640485c1c39db2d",
+        "android_client_info": {
+          "package_name": "com.satellite.broadband"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsv5HUedmlYKmURrvqUIHFByjNeWMKh5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
